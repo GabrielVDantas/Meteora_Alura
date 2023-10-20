@@ -1,0 +1,29 @@
+:root{
+    --color-yellow: #DAFF01;
+    --color-purple: #9353FF;
+    --color-purple-hover: #7747CC;
+}
+.text-yellow {
+    color: var(--color-yellow);
+}
+.bg-purple {
+    background-color: var(--color-purple);
+}
+.bg-purple:hover {
+    background-color: var(--color-purple-hover);
+}
+
+
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.div-novidades {
+    width: 325px;
+}
+
+
